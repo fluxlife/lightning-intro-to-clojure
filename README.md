@@ -25,7 +25,7 @@ see `Install Leiningen` below
 ## Install leiningen
 
 ### Wait ... Why?
-- It's essentiall a Clojure build tool. 
+- It's essentially a Clojure build tool. 
 - Leiningen is to Clojure as
   - Maven/Gradle is to Java
   - SBT is to Scala
